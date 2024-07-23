@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MultikPo
-- 👀 I’m interested in Yandex.Practicum
-- 🌱 I’m currently learning 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Yandex.Practicum
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me tortik1405@gmail.com
 - 😄 Pronouns: ...
